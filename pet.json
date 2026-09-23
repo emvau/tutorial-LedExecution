@@ -1,0 +1,13 @@
+{
+    "name": "LED per Taster steuern",
+    "description": "Eine externe LED wird per Taster ein- und ausgeschaltet",
+    "dependencies": {
+        "microbit": "*"
+    },
+    "files": [
+        "led-taster.md"
+    ],
+    "targetVersions": {
+        "target": "7.0.0"
+    }
+}
